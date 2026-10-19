@@ -1,0 +1,1 @@
+Copyright (c) RSR Technologies. Client-specific starter software. Review commercial licensing terms with the client before redistribution.
